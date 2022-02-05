@@ -1,7 +1,7 @@
 [Horiseion Homepage](https://matt11711.github.io/horiseonAccessabilityCodeRefactor/)
 ![Screenshot](./assets/images/screenshot.PNG)
 
-##User Story
+## User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
